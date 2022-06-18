@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fjalla+One&family=Kdam+Thmor+Pro&family=Roboto+Flex:opsz@8..144&family=Rubik&family=Teko:wght@300&display=swap');
+
+/*
+
+    use font families
+
+        font-family: 'Bebas Neue', cursive;
+        font-family: 'Fjalla One', sans-serif;
+        font-family: 'Kdam Thmor Pro', sans-serif;
+        font-family: 'Roboto Flex', sans-serif;
+        font-family: 'Rubik', sans-serif;
+        font-family: 'Teko', sans-serif;
+
+*/
+
+.carousel-item img {
+    width: 100%;
+    height: 90vh;
+}
+
+.login-btn-nav {
+    width: 100px;
+    height: 45px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background: -webkit-linear-gradient(right, #56d8e4, #9f01ea);
+    transition: 0.5s;
+}
+
+.login-btn-nav:hover {
+    box-shadow: 0 2px 4px 0 rgba(255, 255, 255, 0.678), 0 3px 10px 0 rgba(255, 255, 255, 0.596);
+}
+
+.gallery {
+    background-color: #ffffff5e;
+    height: 100%;
+    padding-top: 50px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 50px;
+}
+
+.gallery .title {
+    text-align: center;
+    font-size: 200%;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.card-img-top {
+    height: 100%;
+}
+
+.card-deck {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.home-content {
+    background: #e7e7e75e;
+    height: 100%;
+    padding-top: 50px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 50px;
+}
+
+.home-content .title {
+    text-align: center;
+    font-size: 200%;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.feature-content {
+    padding-top: 25px;
+    padding-left: 110px;
+    padding-right: 35px;
+    padding-bottom: 25px;
+    word-spacing: 50px;
+}
+
+.box-feature-home {
+    background-color: rgba(179, 179, 179, 0.301);
+    width: 600px;
+    height: 600px;
+    padding-left: 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+.box-title-home {
+    padding-top: 25px;
+    font-size: 30px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-weight: lighter;
+}
+
+@media only screen and (max-width: 1400px) {
+    .home-content {
+        background: #e7e7e75e;
+        height: 100%;
+        padding-left: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .feature-content {
+        padding-top: 25px;
+        padding-left: 50;
+        padding-bottom: 25px;
+    }
+    .box-feature-home {
+        background-color: rgba(179, 179, 179, 0.301);
+        width: 500px;
+        height: 550px;
+        padding-left: 50px;
+        border: none;
+        border-radius: 5px;
+    }
+}
