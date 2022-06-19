@@ -332,6 +332,51 @@
     color: #ffffff;
 }
 
+.footer {
+    background: rgb(66, 66, 66);
+    height: 100%;
+    color: white;
+    padding-top: 50px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 5px;
+}
+
+.footer-img {
+    width: 200px;
+    height: 150px;
+    border: none;
+    border-radius: 15px;
+}
+
+.footer th {
+    padding-left: 150px;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+    text-transform: uppercase;
+}
+
+.footer td {
+    vertical-align: top;
+    text-align: left;
+    padding-left: 150px;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+.footer td a {
+    text-decoration: none;
+    font-size: 120%;
+    color: white;
+}
+
+.footer td a:hover {
+    color: rgb(187, 187, 187);
+}
+
+.footer p a {
+    color: white;
+}
+
 @media only screen and (max-width: 1400px) {
     .home-content {
         background: #e7e7e75e;
