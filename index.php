@@ -128,7 +128,98 @@
     </div>
 </div>
 
+<div class="top-images">
+  <div class="top-images-title">
+      <i class='fas fa-star' style="color: gold; border:black;"></i>&nbsp; Wallpapers
+  </div>
+  <div class="top-images-body">
+
+    <table>
+      <tr>
+        <td>
+        <div class="top-images-img1">
+          <a href="lib/views/login.php">
+            <div class="top-images-img-text">
+              <i class='fas fa-download'></i>
+            </div>
+          </a>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img2">
+          <a href="lib/views/login.php">
+            <div class="top-images-img-text">
+              <i class='fas fa-download'></i>
+            </div>
+          </a>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img3">
+          <a href="lib/views/login.php">
+            <div class="top-images-img-text">
+              <i class='fas fa-download'></i>
+            </div>
+          </a>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img4">
+          <a href="lib/views/login.php">
+            <div class="top-images-img-text">
+              <i class='fas fa-download'></i>
+            </div>
+          </a>
+        </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <div class="top-images-img5">
+          <a href="lib/views/login.php">
+            <div class="top-images-img-text">
+              <i class='fas fa-download'></i>
+            </div>
+          </a>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img6">
+          <a href="lib/views/login.php">
+            <div class="top-images-img-text">
+              <i class='fas fa-download'></i>
+            </div>
+          </a>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img7">
+          <a href="lib/views/login.php">
+            <div class="top-images-img-text">
+              <i class='fas fa-download'></i>
+            </div>
+          </a>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img8">
+          <a href="lib/views/login.php">
+            <div class="top-images-img-text">
+              <i class='fas fa-download'></i>
+            </div>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+
+
 <?php include_once("lib/layouts/footer.php")?>
+
+
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
