@@ -86,15 +86,40 @@
                 <div class="box-title-home">
                   Admin
                 </div>
+                <div class="box-body-home">
+                  <i class='far fa-check-circle' style="color: green; font-size:22px;"></i>
+                  Download Wallpapers <br><br>
+                  <i class='far fa-check-circle' style="color: green; font-size:22px;"></i>
+                  Control Users<br><br>
+                  <i class='fas fa-infinity' style="color: green; font-size:22px;"></i>
+                  Unlimited Access to All Wallpapers<br><br>
+                  <i class='fas fa-infinity' style="color: green; font-size:22px;"></i>
+                  Unlimited Upload Wallpapers<br><br>
+                  <i class='far fa-check-circle' style="color: green; font-size:22px;"></i>
+                  Edit Personal Information<br><br>
+                </div>
               </div>
           </td>
           <td>
-          &nbsp;
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
           <td>
               <div class="box-feature-home">
                 <div class="box-title-home">
                   User
+                </div>
+                <div class="box-body-home">
+                  <i class='far fa-check-circle' style="color: green; font-size:22px;"></i>
+                  Download Wallpapers <br><br>
+                  <i class='far fa-check-circle' style="color: green; font-size:22px;"></i>
+                  Control Users<br><br>
+                  <i class='fas fa-infinity' style="color: green; font-size:22px;"></i>
+                  Unlimited Access to All Wallpapers<br><br>
+                  <i class='fas fa-infinity' style="color: green; font-size:22px;"></i>
+                  Unlimited Upload Wallpapers<br><br>
+                  <i class='far fa-check-circle' style="color: green; font-size:22px;"></i>
+                  Edit Personal Information<br><br>
                 </div>
               </div>
           </td>
