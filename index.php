@@ -9,21 +9,21 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-        <img src="images/210902.jpg"  alt="img1">
+        <img src="images/car1.jpg"  alt="img1">
         <div class="carousel-caption d-none d-md-block">
             <h5>HI</h5>
             <p>All</p>
         </div>
     </div>
     <div class="carousel-item">
-    <img src="images/210922.jpg" alt="img1" >
+    <img src="images/car2.jpg" alt="img1" >
         <div class="carousel-caption d-none d-md-block">
             <h5>HI</h5>
             <p>All</p>
         </div>
     </div>
     <div class="carousel-item">
-    <img src="images/211076.jpg" alt="img1" >
+    <img src="images/car3.jpg" alt="img1" >
         <div class="carousel-caption d-none d-md-block">
             <h5>HI</h5>
             <p>All</p>
@@ -74,6 +74,8 @@
   </div>
 </div>
 </div>
+
+
 <div class="home-content">
     <div class="title">
       Features  
@@ -112,8 +114,6 @@
                 <div class="box-body-home">
                   <i class='far fa-check-circle' style="color: green; font-size:22px;"></i>
                   Download Wallpapers <br><br>
-                  <i class='far fa-check-circle' style="color: green; font-size:22px;"></i>
-                  Control Users<br><br>
                   <i class='fas fa-infinity' style="color: green; font-size:22px;"></i>
                   Unlimited Access to All Wallpapers<br><br>
                   <i class='fas fa-infinity' style="color: green; font-size:22px;"></i>
@@ -127,6 +127,78 @@
       </table>    
     </div>
 </div>
+
+<div class="top-images">
+  <div class="top-images-title">
+      <i class='fas fa-star' style="color: gold; border:black;"></i>&nbsp; Wallpapers
+  </div>
+  <div class="top-images-body">
+
+    <table>
+      <tr>
+        <td>
+        <div class="top-images-img1">
+          <div class="top-images-img-text">
+            <i class='fas fa-download'></i>
+          </div>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img2">
+          <div class="top-images-img-text">
+            <i class='fas fa-download'></i>
+          </div>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img3">
+          <div class="top-images-img-text">
+            <i class='fas fa-download'></i>
+          </div>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img4">
+          <div class="top-images-img-text">
+            <i class='fas fa-download'></i>
+          </div>
+        </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <div class="top-images-img5">
+          <div class="top-images-img-text">
+            <i class='fas fa-download'></i>
+          </div>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img6">
+          <div class="top-images-img-text">
+            <i class='fas fa-download'></i>
+          </div>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img7">
+          <div class="top-images-img-text">
+            <i class='fas fa-download'></i>
+          </div>
+        </div>
+        </td>
+        <td>
+        <div class="top-images-img8">
+          <div class="top-images-img-text">
+            <i class='fas fa-download'></i>
+          </div>
+        </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
 
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
