@@ -591,4 +591,25 @@
         padding-left: 80px;
         cursor: pointer;
     }
+    .footer {
+        background: rgb(66, 66, 66);
+        height: 100%;
+        color: white;
+        padding-top: 25px;
+        padding-left: 24px;
+        padding-right: 24px;
+        padding-bottom: 2px;
+    }
+    .footer th {
+        padding-left: 75px;
+        color: white;
+        font-family: 'Fjalla One', sans-serif;
+        text-transform: uppercase;
+    }
+    .footer td {
+        vertical-align: top;
+        text-align: left;
+        padding-left: 75px;
+        font-family: 'Roboto Flex', sans-serif;
+    }
 }
