@@ -118,8 +118,8 @@
 .top-images-body {
     padding-top: 5px;
     padding-left: 15px;
-    padding-left: 15px;
-    padding-left: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
 }
 
 .top-images-img1 {
@@ -352,5 +352,198 @@
         padding-left: 50px;
         border: none;
         border-radius: 5px;
+    }
+    .top-images {
+        padding-top: 45px;
+        padding-bottom: 50px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .top-images-body {
+        padding: 5px;
+    }
+    .top-images-img1 {
+        margin: 10px;
+        background-color: rgba(179, 179, 179, 0.301);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        background-image: url(../images/car1.jpg);
+        transition: 0.3s;
+    }
+    .top-images-img1:hover {
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/car1.jpg);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        font-size: 100px;
+        padding-top: 40px;
+        padding-left: 80px;
+        cursor: pointer;
+    }
+    .top-images-img2 {
+        margin: 10px;
+        background-color: rgba(179, 179, 179, 0.301);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        background-image: url(../images/city1.jpg);
+        transition: 0.3s;
+    }
+    .top-images-img2:hover {
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/city1.jpg);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        font-size: 100px;
+        padding-top: 40px;
+        padding-left: 80px;
+        cursor: pointer;
+    }
+    .top-images-img3 {
+        margin: 10px;
+        background-color: rgba(179, 179, 179, 0.301);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        background-image: url(../images/car2.jpg);
+        transition: 0.3s;
+    }
+    .top-images-img3:hover {
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/car2.jpg);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        font-size: 100px;
+        padding-top: 40px;
+        padding-left: 80px;
+        cursor: pointer;
+    }
+    .top-images-img4 {
+        margin: 10px;
+        background-color: rgba(179, 179, 179, 0.301);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        background-image: url(../images/city2.jpg);
+        transition: 0.3s;
+    }
+    .top-images-img4:hover {
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/city2.jpg);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        font-size: 100px;
+        padding-top: 40px;
+        padding-left: 80px;
+        cursor: pointer;
+    }
+    .top-images-img5 {
+        margin: 10px;
+        background-color: rgba(179, 179, 179, 0.301);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        background-image: url(../images/car3.jpg);
+        transition: 0.3s;
+    }
+    .top-images-img5:hover {
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/car3.jpg);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        font-size: 100px;
+        padding-top: 40px;
+        padding-left: 80px;
+        cursor: pointer;
+    }
+    .top-images-img6 {
+        margin: 10px;
+        background-color: rgba(179, 179, 179, 0.301);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        background-image: url(../images/city3.jpg);
+        transition: 0.3s;
+    }
+    .top-images-img6:hover {
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/city3.jpg);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        font-size: 100px;
+        padding-top: 40px;
+        padding-left: 80px;
+        cursor: pointer;
+    }
+    .top-images-img7 {
+        margin: 10px;
+        background-color: rgba(179, 179, 179, 0.301);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        background-image: url(../images/car4.jpg);
+        transition: 0.3s;
+    }
+    .top-images-img7:hover {
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/car4.jpg);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        font-size: 100px;
+        padding-top: 40px;
+        padding-left: 80px;
+        cursor: pointer;
+    }
+    .top-images-img8 {
+        margin: 10px;
+        background-color: rgba(179, 179, 179, 0.301);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        background-image: url(../images/city4.jpg);
+        transition: 0.3s;
+    }
+    .top-images-img8:hover {
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/city4.jpg);
+        width: 300px;
+        height: 250px;
+        border: none;
+        background-size: cover;
+        border-radius: 5px;
+        font-size: 100px;
+        padding-top: 40px;
+        padding-left: 80px;
+        cursor: pointer;
     }
 }
