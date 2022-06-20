@@ -7,6 +7,9 @@ Wallpaper Download Site
 
 Image Download Site <br>
 
+******************************************
 
+DEVELOPED BY JEHANKANDY <br>
+on June 2022
 
 
