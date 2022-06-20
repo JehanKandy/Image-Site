@@ -1,6 +1,6 @@
 # Image-Site
 <br>
-Wallpaper Download Site
+Wallpaper Download Site : By Jehankandy
 <br>
 
 ******************************************
