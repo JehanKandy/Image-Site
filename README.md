@@ -1,9 +1,7 @@
 # Image-Site
-BY JEHANKANDY 
 <br>
-Developed By Jehankandy
+Wallpaper Download Site
 <br>
-
 
 ******************************************
 
