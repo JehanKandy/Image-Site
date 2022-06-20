@@ -379,7 +379,7 @@
 
 .login {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/car3.jpg);
-    height: 90vh;
+    height: 86vh;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -391,6 +391,7 @@
 }
 
 .login-box {
+    margin-top: 40px;
     background: transparent;
     width: 600px;
     height: 600px;
@@ -410,10 +411,12 @@
     color: white;
     font-size: 30px;
     padding-right: 50px;
+    text-align: center;
 }
 
 .hr {
     background-color: white;
+    width: 50%;
 }
 
 .content-body {
@@ -438,6 +441,21 @@
     color: white;
     background: transparent;
     box-shadow: 0 2px 4px 0 rgba(255, 255, 255, 0.678), 0 3px 10px 0 rgba(216, 168, 8, 0.596);
+}
+
+.pwd-show {
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.pwd-show .eye {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
 }
 
 .input-login::placeholder {
@@ -489,6 +507,33 @@
 }
 
 @media only screen and (max-width: 1400px) {
+    .login {
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/car3.jpg);
+        height: 83vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .content-body form .label {
+        color: white;
+        font-family: 'Kdam Thmor Pro', sans-serif;
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    .login-content {
+        padding-top: 50px;
+        padding-left: 350px;
+        padding-right: 500px;
+    }
+    .login-box {
+        margin-top: 5px;
+        background: transparent;
+        width: 600px;
+        height: 525px;
+        padding-left: 50px;
+        border: 3px solid white;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px 0 rgba(255, 255, 255, 0.678), 0 3px 10px 0 rgba(216, 168, 8, 0.596);
+    }
     .home-content {
         background: #e7e7e75e;
         height: 100%;
