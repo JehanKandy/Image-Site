@@ -18,6 +18,8 @@ Image Download Site <br>
   - - - lib/layouts/footer.php
   - - - lib/layouts/header.php
   - - - lib/layouts/nav.php
+  - - views
+  - - - lib/views/login.php 
 
 <br><br>
 <hr>
