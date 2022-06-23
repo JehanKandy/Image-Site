@@ -35,8 +35,23 @@ Image Download Site <br>
 2.Develop
   - - - lib/layouts/footer_small.php
   - - - lib/layouts/nav_login.php
+<br><br>
+<b>19 June 2022</b>
+<br><br>
+  
+1.Update
+  - index.php
+  - css
+  - - style.css
+  - lib
+  - - layouts
+  - - - lib/layouts/footer.php
+  - - - lib/layouts/nav.php
+  - - - lib/layouts/header.php
 
-
+2.Develop
+  - - - lib/layouts/footer_small.php
+  - - - lib/layouts/nav_login.php
 
 
 DEVELOPED BY JEHANKANDY <br>
