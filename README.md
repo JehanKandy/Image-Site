@@ -15,7 +15,9 @@ Image Download Site <br>
   - - style.css
   - lib
   - - layouts
-  - - - lib
+  - - - lib/layouts/footer.php
+  - - - lib/layouts/header.php
+  - - - lib/layouts/nav.php
 
 <br><br>
 <hr>
