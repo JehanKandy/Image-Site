@@ -38,7 +38,10 @@ Image Download Site <br>
   - - - lib/layouts/footer.php
   - - - lib/layouts/nav.php
   - - - lib/layouts/header.php
-
+  - - views
+  - - - lib/views/login.php
+  - - - lib/views/reg.php
+  
 2.Develop
   - - - lib/layouts/footer_small.php
   - - - lib/layouts/nav_login.php
