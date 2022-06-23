@@ -3,8 +3,6 @@
 Wallpaper Download Site : By Jehankandy
 <br>
 
-******************************************
-
 Image Download Site <br>
 # Development History
 <br><br>
@@ -33,6 +31,7 @@ Image Download Site <br>
   - - - lib/layouts/footer.php
   - - - lib/layouts/nav.php
   - - - lib/layouts/header.php
+
 
 
 
