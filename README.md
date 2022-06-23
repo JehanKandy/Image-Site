@@ -27,7 +27,10 @@ Image Download Site <br>
   - index.php
   - css
   - - style.css
-
+  - lib
+  - - layouts
+  - - - lib/layouts/footer.php
+  - - - lib
 
 
 DEVELOPED BY JEHANKANDY <br>
