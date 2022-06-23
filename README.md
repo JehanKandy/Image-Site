@@ -30,7 +30,8 @@ Image Download Site <br>
   - lib
   - - layouts
   - - - lib/layouts/footer.php
-  - - - lib
+  - - - lib/layouts/nav.php
+  - - - lib/layouts/header.php
 
 
 DEVELOPED BY JEHANKANDY <br>
